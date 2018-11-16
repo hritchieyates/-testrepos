@@ -1,3 +1,4 @@
 {
   std::cout << "test" << std::endl;
+  std::cout << "test2" << std::endl;
 }
